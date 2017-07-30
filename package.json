@@ -1,0 +1,25 @@
+{
+  "name": "apl-stats",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/au5ton/apl-stats.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/au5ton/apl-stats/issues"
+  },
+  "homepage": "https://github.com/au5ton/apl-stats#readme",
+  "dependencies": {
+    "au5ton-logger": "^1.3.4",
+    "dotenv": "^4.0.0",
+    "gazelle-api": "^1.1.0",
+    "node-schedule": "^1.2.3"
+  }
+}
