@@ -21,6 +21,8 @@ let do_stat_entry = () => {
                 logger.error('Reponse failed.');
                 reject(response);
             }
+        }).catch((err) => {
+            reject(err);
         });
     });
 };
