@@ -21,6 +21,7 @@
     "bytes": "^2.5.0",
     "dotenv": "^4.0.0",
     "gazelle-api": "^1.1.0",
+    "mysql": "^2.14.0",
     "node-schedule": "^1.2.3"
   }
 }
