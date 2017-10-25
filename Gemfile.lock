@@ -1,0 +1,28 @@
+GIT
+  remote: git://github.com/chasemgray/RubyGazelle.git
+  revision: 5a1d9c6c80f0bad62a8e42f8f11da2d8c03cf020
+  specs:
+    gazelle (0.0.2)
+      httparty
+      json
+      recursive-open-struct
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    dotenv (2.2.1)
+    httparty (0.15.6)
+      multi_xml (>= 0.5.2)
+    json (2.1.0)
+    multi_xml (0.6.0)
+    recursive-open-struct (1.0.5)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  dotenv
+  gazelle!
+
+BUNDLED WITH
+   1.15.4
